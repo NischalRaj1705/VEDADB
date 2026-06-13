@@ -951,8 +951,13 @@ int main() {
 
     // Check Ollama at startup (non-fatal)
     bool ollamaUp = ollama.isAvailable();
+
+    // Read port from env (Render injects PORT=10000, local fallback 8082)
+    int port = 8082;
+    if (const char* ep = std::getenv("PORT")) port = std::atoi(ep);
+
     std::cout << "=== VedaDB Engine ===" << std::endl;
-    std::cout << "http://localhost:8082" << std::endl;
+    std::cout << "http://localhost:" << port << std::endl;
     std::cout << db.size() << " demo vectors | " << DIMS << " dims | HNSW+KD-Tree+BruteForce" << std::endl;
     std::cout << docDB.size() << " stored document chunks (persisted)" << std::endl;
     std::cout << "Ollama: " << (ollamaUp ? "ONLINE" : "OFFLINE (install from ollama.com)") << std::endl;
@@ -1301,6 +1306,6 @@ int main() {
             "text/html");
     });
 
-    svr.listen("0.0.0.0", 8082);
+    svr.listen("0.0.0.0", port);
     return 0;
 }
