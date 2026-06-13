@@ -1188,7 +1188,9 @@ button {
 // ════════════════════════════════════════════════════════════
 //  CONSTANTS
 // ════════════════════════════════════════════════════════════
-const API  = 'http://localhost:8082';
+const API  = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+  ? `http://${window.location.hostname}:8082`
+  : '';
 const DIMS = 16;
 const COL  = { os:'#00d9ff', cn:'#b388ff', dbms:'#ffb74d', dsa:'#69f0ae', ai:'#ff7eb6', general:'#f9e2af', fun:'#74c7ec', doc:'#a6e3a1', default:'#90a4ae' };
 const DIM_COL = ['#00d9ff','#00d9ff','#00d9ff','#b388ff','#b388ff','#b388ff','#ffb74d','#ffb74d','#ffb74d',
