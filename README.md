@@ -10,13 +10,15 @@ Ollama.
 
 ---
 # SOME SCREENSHOTS OF THE INTERFACE ARE 
-<img width="1919" height="835" alt="Screenshot 2026-06-13 153337" src="https://github.com/user-attachments/assets/9db70a35-8888-4074-bab1-8b4e0619fb15" /> 
-<img width="1919" height="833" alt="Screenshot 2026-06-13 153134" src="https://github.com/user-attachments/assets/0a623ae3-4e3f-4c06-acde-9c3851928b60" />
-<img width="1919" height="833" alt="Screenshot 2026-06-13 153143" src="https://github.com/user-attachments/assets/99d05c6c-204d-4297-845d-bbb86e7cfc41" />
-<img width="1919" height="586" alt="Screenshot 2026-06-13 153201" src="https://github.com/user-attachments/assets/0e97913b-882d-46dc-95c0-94be5537f646" />
-<img width="1919" height="840" alt="Screenshot 2026-06-13 153228" src="https://github.com/user-attachments/assets/70bdf32e-199c-4e53-83a8-736e172b1c6b" />
-<img width="1919" height="838" alt="Screenshot 2026-06-13 153302" src="https://github.com/user-attachments/assets/53412f44-6da3-4ed2-9b11-342d628e2738" />
-<img width="1919" height="835" alt="Screenshot 2026-06-13 153337" src="https://github.com/user-attachments/assets/6b0828c5-d506-4d0e-aa99-016e569ebb3d" />
+<img width="1919" height="841" alt="Screenshot 2026-06-13 153323" src="https://github.com/user-attachments/assets/efc4fee1-fbc0-42e3-b243-73ad2d6be16e" />
+<img width="1916" height="824" alt="Screenshot 2026-06-12 021651" src="https://github.com/user-attachments/assets/d071732c-c8c4-4997-8ff5-1d39f827997d" />
+<img width="1919" height="833" alt="Screenshot 2026-06-13 153143" src="https://github.com/user-attachments/assets/299c89ce-c600-433a-a733-abca81e02343" />
+<img width="1919" height="586" alt="Screenshot 2026-06-13 153201" src="https://github.com/user-attachments/assets/6941fd89-2c0c-4f02-b278-240b1ee5b70a" />
+<img width="1919" height="840" alt="Screenshot 2026-06-13 153228" src="https://github.com/user-attachments/assets/79d52789-e451-411f-9b02-2704b29ae9a9" />
+<img width="1919" height="838" alt="Screenshot 2026-06-13 153302" src="https://github.com/user-attachments/assets/e87d4aaa-732e-440e-9a25-647fc9dd15c1" />
+<img width="1919" height="711" alt="Screenshot 2026-06-13 153235" src="https://github.com/user-attachments/assets/4fc89f8d-220a-4d88-8d8f-544b115576f2" />
+
+
 
 
 
