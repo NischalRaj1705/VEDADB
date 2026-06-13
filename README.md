@@ -10,7 +10,7 @@ Ollama.
 
 ---
 # SOME SCREENSHOTS OF THE INTERFACE ARE 
-<img width="1919" height="835" alt="Screenshot 2026-06-13 153337" src="https://github.com/user-attachments/assets/9db70a35-8888-4074-bab1-8b4e0619fb15" />
+<img width="1919" height="835" alt="Screenshot 2026-06-13 153337" src="https://github.com/user-attachments/assets/9db70a35-8888-4074-bab1-8b4e0619fb15" /> 
 <img width="1919" height="833" alt="Screenshot 2026-06-13 153134" src="https://github.com/user-attachments/assets/0a623ae3-4e3f-4c06-acde-9c3851928b60" />
 <img width="1919" height="833" alt="Screenshot 2026-06-13 153143" src="https://github.com/user-attachments/assets/99d05c6c-204d-4297-845d-bbb86e7cfc41" />
 <img width="1919" height="586" alt="Screenshot 2026-06-13 153201" src="https://github.com/user-attachments/assets/0e97913b-882d-46dc-95c0-94be5537f646" />
