@@ -9,22 +9,6 @@ a **RAG (Retrieval-Augmented Generation)** pipeline powered by a local LLM via
 Ollama.
 
 ---
-# SOME SCREENSHOTS OF THE INTERFACE ARE 
-<img width="1919" height="841" alt="Screenshot 2026-06-13 153323" src="https://github.com/user-attachments/assets/efc4fee1-fbc0-42e3-b243-73ad2d6be16e" />
-<img width="1916" height="824" alt="Screenshot 2026-06-12 021651" src="https://github.com/user-attachments/assets/d071732c-c8c4-4997-8ff5-1d39f827997d" />
-<img width="1919" height="833" alt="Screenshot 2026-06-13 153143" src="https://github.com/user-attachments/assets/299c89ce-c600-433a-a733-abca81e02343" />
-<img width="1919" height="586" alt="Screenshot 2026-06-13 153201" src="https://github.com/user-attachments/assets/6941fd89-2c0c-4f02-b278-240b1ee5b70a" />
-<img width="1919" height="840" alt="Screenshot 2026-06-13 153228" src="https://github.com/user-attachments/assets/79d52789-e451-411f-9b02-2704b29ae9a9" />
-<img width="1919" height="838" alt="Screenshot 2026-06-13 153302" src="https://github.com/user-attachments/assets/e87d4aaa-732e-440e-9a25-647fc9dd15c1" />
-<img width="1919" height="711" alt="Screenshot 2026-06-13 153235" src="https://github.com/user-attachments/assets/4fc89f8d-220a-4d88-8d8f-544b115576f2" />
-
-
-
-
-
-
-
-
 
 ## ✨ Features
 
